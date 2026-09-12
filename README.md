@@ -9,7 +9,7 @@ dashboard migration than a rebuild of the semantic layer underneath it.
 Writing at [tech-notes.bearblog.dev](https://tech-notes.bearblog.dev) on data
 platforms, AWS, and system design.
 
-**Currently**
+**In progress**
 
-- AWS Certified Data Engineer, Associate
+- Studying for the AWS Data Engineer Associate exam
 - AceInsights, a tennis analytics pipeline from S3 through dbt to Cube and Superset
